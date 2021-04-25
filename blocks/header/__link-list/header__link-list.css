@@ -1,0 +1,12 @@
+.header__link-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: inline;
+    margin-right: 18px;
+    margin-top: 46px;
+}
+
+.header__link-list:last-of-type {
+    margin-right: 48px;
+}

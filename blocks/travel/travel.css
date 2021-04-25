@@ -1,0 +1,7 @@
+.travel {
+    margin-top: 12px;
+    position: relative;
+    width: calc(100% - 96px);
+    max-width: 1184px;
+    margin: 0 auto;
+}

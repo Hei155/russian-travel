@@ -1,0 +1,6 @@
+.geography__title-board {
+    display: flex;
+    width: calc(100% - 96px);
+    max-width: 984px;
+    margin: 0;
+}

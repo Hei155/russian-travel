@@ -1,0 +1,8 @@
+.header__picture-container {
+    margin: 0 auto;
+    position: relative;
+    width: calc(100% - 96px);
+    max-width: 984px;
+    z-index: 1;
+    
+}

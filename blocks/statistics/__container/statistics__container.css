@@ -1,0 +1,5 @@
+.statistics__container {
+    width: calc(100% - 96px);
+    max-width: 984px;
+    margin: 0 auto;
+}

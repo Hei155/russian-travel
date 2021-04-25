@@ -1,0 +1,13 @@
+.geography__links {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 456px;
+    margin-left: 40px;
+}
+
+@media screen and (max-width: 1024px) {
+    .geography__links {
+        margin-left: 32px;
+    }
+} 
