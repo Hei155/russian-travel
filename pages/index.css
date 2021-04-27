@@ -11,7 +11,7 @@
 @import url(../blocks/header/__panel/header__panel.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
-@import url(../blocks/header/__picture/header__picture-container.css);
+@import url(../blocks/header/__picture-container/header__picture-container.css);
 @import url(../blocks/header/__picture/header__picture.css);
 @import url(../blocks/header/__vector/header__vector.css);
 @import url(../blocks/header/__picture-caption/header__picture-caption.css);
