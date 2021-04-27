@@ -4,3 +4,16 @@
     margin: 0;
     margin-bottom: 92px;
 }
+
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    .statistics__info-list {
+        margin-bottom: 88px;
+    }
+}
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+    .statistics__info-list {
+        margin: 0;
+        margin-bottom: 64px;
+    }
+}
