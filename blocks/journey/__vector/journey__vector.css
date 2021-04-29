@@ -1,4 +1,4 @@
-.header__vector {
+.journey__vector {
     position: absolute;
     top: 14%;
     left: 2%;
@@ -7,13 +7,13 @@
 }
 
 @media screen and (max-width: 1023px) and (min-width: 768px) {
-    .header__vector {
+    .journey__vector {
         width: calc(100% - 36.61px);
     }
 }
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
-    .header__vector {
+    .journey__vector {
         width: calc(100% - 15.26px);
     }
 }

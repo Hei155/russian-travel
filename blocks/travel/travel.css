@@ -3,17 +3,17 @@
     position: relative;
     width: calc(100% - 96px);
     max-width: 1184px;
-
+    height: 0;
+    padding-top: 370px;
+    padding-bottom: 370px;
+    
 }
 
-@media screen and (max-width: 1023px) and (min-width: 768px){
+@media screen and (max-width: 1279px) and (min-width: 320px) {
     .travel {
+        padding-top: calc(100% * 0.3125);
+        padding-bottom: calc(100% * 0.3125);
         width: 100%;
-    }
-}
-
-@media screen and (max-width: 767px) and (min-width: 320px){
-    .travel {
-        width: 100%;
+        max-width: 1184px;
     }
 }

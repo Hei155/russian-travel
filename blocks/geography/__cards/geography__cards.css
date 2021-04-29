@@ -4,6 +4,10 @@
     width: calc(100% - 96px);
 }
 
+.geography__cards:last-of-type {
+    margin: 0 auto 92px auto;
+}
+
 @media screen and (max-width: 1023px) and (min-width: 768px) {
     .geography__cards {
         width: calc(100% - 48px);
@@ -11,8 +15,7 @@
     }
 
     .geography__cards:last-of-type {
-        width: calc(100% - 48px);
-        margin: 0 auto 78px auto;
+        margin: 0 auto 90px auto;
     }
 }
 
@@ -23,7 +26,6 @@
     }
 
     .geography__cards:last-of-type {
-        width: calc(100% - 32px);
-        margin: 0 auto 54px auto;
+        margin-bottom: calc(100% * 0.20625);
     }
 }

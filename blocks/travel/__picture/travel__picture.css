@@ -2,14 +2,15 @@
     background: url(../../../images/__background.jpg) no-repeat;
     background-size: cover;
     width: 100%;
-    padding-bottom: calc(100% * 0.625);
     object-fit: contain;
     margin: 0;
     opacity: .8;
     transition: opacity ease-in-out .5s;
     position: absolute;
+    padding-top: calc(100% * 0.3125);
+    padding-bottom: calc(100% * 0.3125);
+   
 
-    
 }
 
 .travel__picture:hover {
