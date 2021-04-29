@@ -5,7 +5,5 @@
 @media screen and (max-width: 767px) and (min-width: 320px) {
     .geography__card {
         flex-wrap: wrap;
-        flex-direction: column;
-        align-items: center;
     }
 }

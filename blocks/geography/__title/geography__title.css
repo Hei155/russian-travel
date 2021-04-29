@@ -25,9 +25,10 @@
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
     .geography__title {
-        max-width: 288px;
+        max-width: 100%;
         font-size: 32px;
         line-height: 35px;
         margin-bottom: 32px;
+        
     }
 }
