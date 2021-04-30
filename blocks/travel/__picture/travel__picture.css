@@ -9,8 +9,6 @@
     position: absolute;
     padding-top: calc(100% * 0.3125);
     padding-bottom: calc(100% * 0.3125);
-   
-
 }
 
 .travel__picture:hover {
